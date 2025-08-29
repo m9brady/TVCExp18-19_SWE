@@ -31,25 +31,25 @@ Use [miniconda](https://docs.conda.io/projects/miniconda/en/latest/), [mamba](ht
 
 
 ```
-conda env create -n tvc1819 -f environment.yml
+conda env create -n tvc1819 -f tvc1819.yml
 conda activate tvc1819
 ```
 
 The `tvc1819` environment installs the Snow Microwave Radiative Transfer Model (SMRT) version 1.5.1 (released 2024/01/18). If you would like to use a more recent version, then with the environment activated you can follow the installation instructions from [G. Picard](https://github.com/ghislainp) to install the latest stable SMRT release: [SMRT install instructions](https://github.com/smrt-model/smrt?tab=readme-ov-file#quick-installation)
 
-> **Warning** 
-> The provided environment.yml file was generated on Linux and may behave differently on Windows or Mac systems.
+> [!WARNING]
+> :warning: The provided tvc1819.yml file was generated on Linux and may behave differently on Windows or Mac systems. :warning:
 
 ## Data Preparation
 
 To download the datasets used by the notebooks, use the following links:
 
 - [Zenodo: TVC Experiment 2018/19: Snow Field Measurements](https://doi.org/10.5281/zenodo.10794207)
-  - Zip file containing all the files under the `Site` subdirectory
+  - `TVCExp18-19_SnowData.zip`: Zip file containing all the files under the `Site` subdirectory 
 - [Zenodo: TVC Experiment 2018/19: UMass Airborne Ku-Band SAR data](https://doi.org/10.5281/zenodo.10794918)
   - `UMass_TVC18-19_DB.geojson`
 - [Zenodo: TVC Experiment 2018/19: TerraSAR-X backscatter data](https://doi.org/10.5281/zenodo.10794868)
-  - `SoilRough_ALS2018_TVC18-19.json`  
+  - `TSX_TVC18-19_DB.geojson`  
 - [Zenodo: TVC Experiment 2018/19: Soil Vegetation Snow Version 2, land surface model output](https://doi.org/10.5281/zenodo.15690838)
   - `Arctic_Ensemble.zip`  
   - `Default_Ensemble.zip`
@@ -59,7 +59,7 @@ and store the data as shown:
 ```
 Data
 ├── UMass_TVC18-19_DB.geojson
-├── SoilRough_ALS2018_TVC18-19.json
+├── TSX_TVC18-19_DB.geojson
 ├── SVS-2  
 ├──── Arctic
 ├────── Unzipped Arctic_Ensemble.zip  

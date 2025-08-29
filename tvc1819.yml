@@ -1,6 +1,5 @@
 name: tvc1819
 channels:
-  - defaults
   - conda-forge
   - fortiers
   - nvidia
