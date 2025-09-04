@@ -58,13 +58,13 @@ and store the data as shown:
 
 ```
 Data
-├── UMass_TVC18-19_DB.geojson
+├── SVS-2
+│   ├── Arctic
+│   │    └── Unzipped Arctic_Ensemble.zip
+│   └── Default
+│        └── Unzipped Default_Ensemble.zip
 ├── TSX_TVC18-19_DB.geojson
-├── SVS-2  
-├──── Arctic
-├────── Unzipped Arctic_Ensemble.zip  
-├──── Default
-├────── Unzipped Default_Ensemble.zip
+└── UMass_TVC18-19_DB.geojson
 ```
 
 ## Exploring the Notebooks
