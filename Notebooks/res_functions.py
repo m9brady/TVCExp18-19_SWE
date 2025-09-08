@@ -171,7 +171,7 @@ def compute_ke(snow_df, freq = 17.5e9):
     sensor  = sensor_list.active(freq, 35)
     
     #get ks from IBA class
-    ks = np.array([iba.IBA(sensor, layer, dense_snow_correction='auto').ks for layer in sp.layers])
+    ks = np.array([iba.IBA(sensor, layer, dense_snow_correction='auto')._ks for layer in sp.layers])
     ka = np.array([iba.IBA(sensor, layer, dense_snow_correction='auto').ka for layer in sp.layers])
     ke = ks + ka
     return ke
