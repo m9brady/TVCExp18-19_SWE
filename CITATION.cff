@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use or extend the code in this repository, please cite it as below."
+authors:
+- family-names: "Montpetit"
+  given-names: "Benoit"
+  orcid: "https://orcid.org/0000-0002-4491-2971"
+title: "TVCExp18-19_SWE Supporting Code"
+version: 1.0.0
+date-released: 2025-09-08
+url: "https://github.com/ECCCBen/TVCExp18-19_SWE"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Montpetit"
+    given-names: "Benoit"
+    orcid: "https://orcid.org/0000-0002-4491-2971"
+  - family-names: "Meloche"
+    given-names: "Julien"
+    orcid: "https://orcid.org/0000-0001-9617-1979"
+  - family-names: "Vionnet"
+    given-names: "Vincent"
+    orcid: "https://orcid.org/0000-0002-9142-9739"
+  - family-names: "Derksen"
+    given-names: "Chris"
+    orcid: "https://orcid.org/0000-0001-6821-5479"
+  - family-names: "Wooley"
+    given-names: "Georgina"
+    orcid: ""
+  - family-names: "Leroux"
+    given-names: "Nicolas R."
+    orcid: ""
+  - family-names: "Siqueira"
+    given-names: "Paul"
+    orcid: "https://orcid.org/0000-0001-5781-8282"
+  - family-names: "Adams"
+    given-names: "J. Max"
+    orcid: ""
+  - family-names: "Brady"
+    given-names: "Mike"
+    orcid: "https://orcid.org/0000-0001-8263-0951"
+  doi: "https://doi.org/10.5194/egusphere-2025-2317"
+  journal: "EGUsphere [preprint]"
+  title: "Retrieving Snow Water Equivalent from airborne Ku-band data: The Trail Valley Creek 2018/19 Snow Experiment"
