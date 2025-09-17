@@ -38,6 +38,6 @@ preferred-citation:
   - family-names: "Brady"
     given-names: "Mike"
     orcid: "https://orcid.org/0000-0001-8263-0951"
-  doi: "https://doi.org/10.5194/egusphere-2025-2317"
+  doi: "10.5194/egusphere-2025-2317"
   journal: "EGUsphere [preprint]"
   title: "Retrieving Snow Water Equivalent from airborne Ku-band data: The Trail Valley Creek 2018/19 Snow Experiment"
