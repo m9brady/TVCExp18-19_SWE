@@ -4,7 +4,7 @@ authors:
 - family-names: "Montpetit"
   given-names: "Benoit"
   orcid: "https://orcid.org/0000-0002-4491-2971"
-title: "TVCExp18-19_SWE Supporting Code"
+title: "TVC Experiment 2018/19 - SWE retrieval algorithm"
 version: 1.0.0
 date-released: 2025-09-08
 url: "https://github.com/ECCCBen/TVCExp18-19_SWE"
