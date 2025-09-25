@@ -44,8 +44,6 @@ The `tvc1819` environment installs the Snow Microwave Radiative Transfer Model (
 
 To download the datasets used by the notebooks, use the following links:
 
-- [Zenodo: TVC Experiment 2018/19: Snow Field Measurements](https://doi.org/10.5281/zenodo.10794207)
-  - `TVCExp18-19_SnowData.zip`: Zip file containing all the files under the `Site` subdirectory 
 - [Zenodo: TVC Experiment 2018/19: UMass Airborne Ku-Band SAR data](https://doi.org/10.5281/zenodo.10794918)
   - `UMass_TVC18-19_DB.geojson`
 - [Zenodo: TVC Experiment 2018/19: TerraSAR-X backscatter data](https://doi.org/10.5281/zenodo.10794868)
