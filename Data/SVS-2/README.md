@@ -1,0 +1,1 @@
+For information on this folder, please refer to the Data Preparation step in the [README.md](../../README.md#data-preparation) of the root of this repository.
