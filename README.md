@@ -3,10 +3,10 @@
 This repository contains the techniques and code referenced in the following publication:
 
 
->  Montpetit, B., Meloche, J., Vionnet, V., Derksen, C., Woolley, G., Leroux, N. R., Siqueira, P., Adam, J. M., and Brady, M. : Retrieving Snow Water Equivalent from airborne Ku-band data: The Trail Valley Creek 2018/19 Snow Experiment, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2025-2317](https://doi.org/10.5194/egusphere-2025-2317), 2025.
+>  Montpetit, B., Meloche, J., Vionnet, V., Derksen, C., Woolley, G., Leroux, N. R., Siqueira, P., Adam, J. M., and Brady, M. : Snow Water Equivalent from airborne Ku-band data: the Trail Valley Creek 2018/19 snow experiment, The Cryosphere, [https://doi.org/10.5194/tc-19-5465-2025](https://doi.org/10.5194/tc-19-5465-2025), 2025.
 
 
-Open-Access Publication (Preprint): [![Static Badge](https://img.shields.io/badge/EGUsphere-blue)](https://doi.org/10.5194/egusphere-2025-2317)
+Open-Access Publication: [![Static Badge](https://img.shields.io/badge/The%20Cryosphere-blue)](https://doi.org/10.5194/tc-19-5465-2025)
 
 Open-Access Dataset:  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10794207.svg)](https://doi.org/10.5281/zenodo.10794207)  
